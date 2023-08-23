@@ -19,5 +19,5 @@ Your main task is to cluster the countries by the factors mentioned above and th
 
 **Results Expected**
 
-A well-commented Jupyter notebook containing the Clustering Models(both K-means and Hierarchical Clustering) and the final list of countries. Present the overall approach of the analysis in a presentation Mention the problem statement and the analysis approach. Explain the results of Clustering Model briefly. Include visualisations and summarise the most important results in the presentation. Make sure that you mention the final list of countries here ( Don't just mention the cluster id or cluster name here. Mention the names of all the countries.)
+A well-commented Jupyter notebook containing the Clustering Models(both K-means and Hierarchical Clustering) and the final list of countries. Present the overall approach of the analysis in a presentation Mention the problem statement and the analysis approach. Explain the results of Clustering Model briefly. Include visualisations and summarise the most important results in the presentation. 
 
